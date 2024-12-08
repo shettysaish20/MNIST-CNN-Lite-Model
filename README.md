@@ -227,7 +227,7 @@ Target:
 5. Added a 1x1 kernel after GAP to reduce the number of parameters, following Rohan sir's code.
 
 Logs:<br>
-<img src="./images/M3_training.png" width="800" height="800" alt="M3 Training Logs">
+<img src="./images/M3_Training.png" width="800" height="800" alt="M3 Training Logs">
 
 Results:
 1. Parameters: **7,676** ✅
@@ -296,7 +296,7 @@ Target:
 
 
 Logs:<br>
-<img src="./images/M4_training.png" width="800" height="800" alt="M4 Training Logs">
+<img src="./images/M4_Training.png" width="800" height="800" alt="M4 Training Logs">
 
 Results:
 1. Parameters: **7,600** ✅
