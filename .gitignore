@@ -1,0 +1,11 @@
+test_notebooks/
+*.ipynb
+*.pyc
+*.pyc~
+*.ipynb~
+*.csv
+*.pdf
+*.docx
+*.doc
+working_models/
+data/
